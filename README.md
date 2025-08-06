@@ -140,27 +140,12 @@ The application provides:
 - **Visual analysis**: Side-by-side comparison of original and segmented images
 - **Quantitative metrics**: Tumor area percentage and pixel count
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - TensorFlow and Keras for deep learning framework
 - Streamlit for web application framework
 - Medical imaging community for datasets and research
-
-## 📞 Contact
-
-For questions and support, please open an issue on GitHub.
 
 ---
 
